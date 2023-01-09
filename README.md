@@ -9,7 +9,7 @@ Es un servidor web de código abierto que puede ser usado como alternativa a Apa
 4. Por el lado de la escalabilidad, Nginx está basada en eventos que permiten tener un rendimiento mayor incluso si se trata de un tráfico pesado. Esto no es posible con Apache ya que tiene una arquitectura de subprocesos múltiples que hacen difícil que esta escalabilidad se pueda lograr. 
 5. Finalmente, desde el procesamiento de contenido dinamico encontramos que Apache procesa contenido dinámico de forma nativa dentro del propio servidor web, lo cual Nginx es incapaz de realizar ya que depende de los procesos que se puedan realizar de forma externa.
 
-##Instalación:
+## Instalación:
 1. Primero actualizaremos los repositorios e instalaremos el paquete de nginx, comprobando su estado.
 ![1](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura.PNG)
 ![2](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura2.PNG)
