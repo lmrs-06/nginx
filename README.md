@@ -24,6 +24,7 @@ Es un servidor web de código abierto que puede ser usado como alternativa a Apa
 ![6](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura6.PNG)
 
 4. Crear las carpetas y archivos donde alojar nuestro servidor nginx.
+
 ![7](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura7.PNG)
 ![8](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura8.PNG)
 ![9](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura9.PNG)
