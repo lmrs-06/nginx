@@ -38,5 +38,17 @@ Es un servidor web de código abierto que puede ser usado como alternativa a Apa
 
 7. Nos aseguramos de que todo este correctamente y visitamos nuestra pagina nginx.
 ![13](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura13.PNG)
+
+
+## Casos Practicos:
+a. Versión de Nginx
+
+
+b. Ficheros de configuración
+
+
+c. Personalización de la pagina
+
 ![14](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura14.PNG)
 
+d. Virtual hosting
