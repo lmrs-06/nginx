@@ -11,16 +11,19 @@ Es un servidor web de código abierto que puede ser usado como alternativa a Apa
 
 ## Instalación:
 1. Primero actualizaremos los repositorios e instalaremos el paquete de nginx, comprobando su estado.
+
 ![1](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura.PNG)
 ![2](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura2.PNG)
 ![3](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura3.PNG)
 ![2.5](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura2.5.PNG)
 
 2. Instalar el firewall ufw, comprobar su esatdo y habilitar el perfil de Nginx HTTP
+
 ![5](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura5.PNG)
 ![4](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura4.PNG)
 
 3. Comprobar en un navegador que nginx funciona.
+
 ![6](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura6.PNG)
 
 4. Crear las carpetas y archivos donde alojar nuestro servidor nginx.
@@ -31,12 +34,15 @@ Es un servidor web de código abierto que puede ser usado como alternativa a Apa
 ![10](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura10.PNG)
 
 5. Habilitaremos el archivo creando un enlace entre él y sites-enabled.
+
 ![11](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura11.PNG)
 
 6. Añadimos o descomentamos esta linea en el fichero de configuracion de nginx para evitar problemas de memoria.
+
 ![12](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura12.PNG)
 
 7. Nos aseguramos de que todo este correctamente y visitamos nuestra pagina nginx.
+
 ![13](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura13.PNG)
 
 
@@ -56,6 +62,10 @@ c. Personalización de la pagina
 d. Virtual hosting
 
 ## Referencias:
+[Pagina de Referencia 1](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-es)
+
+[Pagina de Referencia 2](https://www.ochobitshacenunbyte.com/2020/02/24/nginx-balanceo-de-carga-http-en-linux/)
+
 
 ## Licencia:
-![lic](https://github.com/lmrs-06/nginx/blob/main/nginx/licencia.PNG)
+![lic](https://github.com/lmrs-06/nginx/blob/main/nginx/licencia.png)
