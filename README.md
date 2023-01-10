@@ -61,6 +61,13 @@ c. Personalización de la pagina
 
 d. Balanco de carga
 
+![1](https://github.com/lmrs-06/nginx/blob/main/nginx/1.PNG)
+
+![2](https://github.com/lmrs-06/nginx/blob/main/nginx/2.PNG)
+![3](https://github.com/lmrs-06/nginx/blob/main/nginx/3.PNG)
+![4](https://github.com/lmrs-06/nginx/blob/main/nginx/4.PNG)
+![5](https://github.com/lmrs-06/nginx/blob/main/nginx/5.PNG)
+
 ## Referencias:
 [Pagina de Referencia 1](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-es)
 
