@@ -71,7 +71,7 @@ d. Balanco de carga
 ## Referencias:
 [Pagina de Referencia 1](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-es)
 
-[Pagina de Referencia 2](https://www.ochobitshacenunbyte.com/2020/02/24/nginx-balanceo-de-carga-http-en-linux/)
+[Pagina de Referencia 2](https://help.clouding.io/hc/es/articles/360019908839-Cómo-configurar-un-servidor-de-balanceo-de-carga-Nginx-en-Ubuntu-20-04)
 
 
 ## Licencia:
