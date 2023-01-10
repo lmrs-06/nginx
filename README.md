@@ -59,7 +59,7 @@ c. Personalización de la pagina
 
 ![14](https://github.com/lmrs-06/nginx/blob/main/nginx/Captura14.PNG)
 
-d. Virtual hosting
+d. Balanco de carga
 
 ## Referencias:
 [Pagina de Referencia 1](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-es)
